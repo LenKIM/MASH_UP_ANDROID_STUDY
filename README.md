@@ -21,18 +21,25 @@ HTTP 강의
 
 ### 4주차
 
-내가 했지만 민망해서 Pass
+내가 했으므로 민망해서
 
 ### 5주차
 
-원래는 Facebook을 Clone할 생각이였으나, API가 막혀서... Auth2 로그인만 실행
+HTTP 실습 강의 진행
 
-MashBook 만들기
-
-코드 : [소스 코드](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/tree/mashbook) / [실습형 강의 노트](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/blob/mashbook/README.md)
+작성자 : [정성민](https://github.com/JSpiner)  
+[원본](https://github.com/JSpiner/MASHUP_HTTP_STUDY)  
+코드 : [README.md](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/blob/Http/README.md) / [소스코드](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/tree/Http)
 
 ### 6주차
 
+작성자 : [정성민](https://github.com/JSpiner)  
+[원본](https://github.com/JSpiner/MASHUP_FACEBOOK_STUDY)  
 
+원래는 Facebook을 Clone할 생각이였으나, API가,  Auth2 로그인만 실행했다고 함
+
+MashBook 만들기
+
+코드 : [실습형 강의 노트](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/blob/mashbook/README.md) / [소스 코드](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/tree/mashbook)
 
 ### 7주차
