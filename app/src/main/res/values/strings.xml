@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">매시북</string>
+    <string name="facebook_app_id">2099388070320681</string>
+    <string name="fb_login_protocol_scheme">fb2099388070320681</string>
+</resources>
