@@ -1,38 +1,33 @@
-# MASH_UP_ANDROID_STUDY
+# MASHUP_HTTP_STUDY
 
+매쉬업 안드로이드 HTTP 통신 스터디 코드입니다!<br/>
+1주차 2주차에서 배운 내용들만으로 만들 수 있도록 구성하였습니다! <br/>
+그렇기에.... 더 좋은, 더 효율적인 방법이 없을까? 의문이 들수도 있는데 <br/>
+언제든 질문주세요!
 
-### 1주차
+```
+목표! : OKHTTP를 이용해서 미세먼지앱 만들어보기!
+```
 
-안드로이드 설치
+## 프로젝트 다운받기
+![branch](./img/branch.png) <br/>
+우선 브랜치를 `master`로 설정하시고 
+<br/><br/>
+![download](./img/download.png)<br/>
+오른쪽 다운로드 버튼을 눌러주세요!<br/>
+`Download ZIP`을 누르시면 됩니다!<br/>
+(git을 사용할줄 아시는분은 clone 하시면 더 좋아요 :+1:)
 
-[강의 노트](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/blob/master/1_week_Intro_android.pdf)
+## 스터디가 끝난후
 
-### 2주차
+스터디가 끝난후 완성된 코드를 가져가고싶으시다면,<br/>
+![branch](./img/branch.png)<br/>
+브랜치를 `code-complete`로 설정하시고 다운로드 받으시면 됩니다!
 
-안드로이드 레이아웃 및 리싸이클러 뷰
+## 기타
+STAR 와 FOLLOW 눌러주는 센스 :+1:
 
-[강의 노트](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/blob/master/2_week_layout.pdf)
+[![GitHub followers](https://img.shields.io/github/followers/JSpiner.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JSpiner?tab=followers)
 
-### 3주차
+[![GitHub stars](https://img.shields.io/github/stars/JSpiner/MASHUP_HTTP_STUDY.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/JSpiner/MASHUP_HTTP_STUDY/stargazers/)
 
-HTTP 강의
-
-[강의 노트](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/blob/master/3_week_http_.pdf)
-
-### 4주차
-
-내가 했지만 민망해서 Pass
-
-### 5주차
-
-원래는 Facebook을 Clone할 생각이였으나, API가 막혀서... Auth2 로그인만 실행
-
-MashBook 만들기
-
-코드 : [소스 코드](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/tree/mashbook) / [실습형 강의 노트](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/blob/mashbook/README.md)
-
-### 6주차
-
-
-
-### 7주차
