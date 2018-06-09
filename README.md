@@ -48,5 +48,5 @@ MashBook 만들기
 
 번역앱 + 안드로이드 짤막강의
 
-코드 : 강의 자료 / [소스 코드](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/tree/mashuptranslate)
+코드 : [강의 자료](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/blob/mashuptranslate/secret_android_seminar.md) / [소스 코드](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/tree/mashuptranslate)
 
