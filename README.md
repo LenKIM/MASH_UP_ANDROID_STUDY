@@ -1,4 +1,5 @@
 # MASH_UP_ANDROID_STUDY
+
 ## 1주차
 
 ### 안드로이드 설치
@@ -40,5 +41,13 @@ MashBook 만들기
 
 코드 : [실습형 강의 노트](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/blob/mashbook/README.md) / [소스 코드](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/tree/mashbook)
 
-### 7주차
+## 7주차
+
+### 네이버 번역 API를 활용
+
+작성자: [김정규](https://github.com/LenKIM)
+
+번역앱 + 안드로이드 짤막강의
+
+코드 : [강의 자료](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/blob/mashuptranslate/secret_android_seminar.md) / [소스 코드](https://github.com/LenKIM/MASH_UP_ANDROID_STUDY/tree/mashuptranslate)
 
