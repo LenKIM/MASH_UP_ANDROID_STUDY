@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookSearch</string>
+    <string name="search">검색</string>
+    <string name="setting">설정</string>
+    <string name="search_list">검색 내역</string>
+    <string name="search_hint">책 제목, 저자 검색...</string>
+    <string name="empty_search_list_message">검색 버튼을 눌러 책을 검색하세요!</string>
+    <string name="witter">글</string>
+</resources>
