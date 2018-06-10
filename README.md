@@ -43,6 +43,17 @@ MashBook 만들기
 
 ## 7주차
 
+### 책 검색 앱
+
+작성자: [이종훈](https://github.com/ChuuMong)
+
+네이버 API를 활용한 책 검색 
+MVP, MVC 패턴 학습
+
+코드 :  [소스 코드](https://github.com/ChuuMong/Book-Search)
+
+## 8주차
+
 ### 네이버 번역 API를 활용
 
 작성자: [김정규](https://github.com/LenKIM)
